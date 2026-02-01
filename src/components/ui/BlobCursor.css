@@ -1,0 +1,33 @@
+.blob-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 1000;
+}
+
+.blob-main {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: transparent;
+  user-select: none;
+  cursor: none;
+}
+
+.blob {
+  position: fixed;
+  will-change: transform;
+  transform: translate(-50%, -50%);
+  filter: blur(1px);
+}
+
+.inner-dot {
+  position: absolute;
+}
