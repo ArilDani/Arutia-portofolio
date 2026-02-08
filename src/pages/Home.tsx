@@ -108,7 +108,7 @@ const Home = () => {
               About Me
             </h3>
             <p className="text-gray-400 text-lg leading-relaxed mb-6">
-              Hi, I’m Arutia.I’m a UI/UX-focused Frontend Developer who’s passionate about crafting clean, intuitive, and visually engaging digital experiences. I believe good design isn’t just about looks—it’s about clarity, usability, and creating interfaces that feel effortless to use.With a strong background in UI/UX design and frontend development, I translate ideas and user needs into functional, responsive, and modern interfaces. From wireframes and design systems to polished frontend implementations, I make sure every detail aligns with both user experience and business goals.
+              Hi, I’m Arutia.I’m a UI/UX-focused Frontend Developer who’s passionate about crafting clean, intuitive, and visually engaging digital experiences. I believe good design isn’t just about looks—it’s about clarity, usability, and creating interfaces that feel effortless to use.
             </p>
             <p className="text-gray-400 text-lg leading-relaxed">
               With a strong background in UI/UX design and frontend development, I translate ideas and user needs into functional, responsive, and modern interfaces. From wireframes and design systems to polished frontend implementations, I make sure every detail aligns with both user experience and business goals.
